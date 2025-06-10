@@ -16,7 +16,7 @@ All tools are written by me, with a strong focus on ethical use and practical ap
 - 🔐 **System Hardening & Monitoring**  
 - 🧠 **Automation of repetitive tasks**  
 - 🧪 **Offensive testing in lab environments**  
-- 🔄 **OSIN**
+- 🔄 **OSINT**
 - 🔐 **Privilege Escalation**
 - 🔍 **Enumeration** 
 
